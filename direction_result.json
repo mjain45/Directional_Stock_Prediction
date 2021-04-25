@@ -1,0 +1,10 @@
+{
+    "AMZN": {
+        "trade_time": "2019-01-07 13:30:00",
+        "direction": 1
+    },
+    "AAPL": {
+        "trade_time": "2019-01-07 13:30:00",
+        "direction": -1
+    }
+}
